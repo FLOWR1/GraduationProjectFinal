@@ -166,18 +166,3 @@ Video3 is explaining case of pressing R
 * when you press ESC, program will be executed.
 
 
-# Related
-<ol>
-<li>
-https://github.com/MarekKowalski/FaceSwap
- </li>
- <li>
-https://github.com/hrastnik/FaceSwap
- </li>
-  <li>  
-https://github.com/wuhuikai/FaceSwap
-    </li>
- </ol>
-
-
-
