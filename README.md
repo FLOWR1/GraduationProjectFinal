@@ -5,11 +5,11 @@ GraduationProjectFinal
 
 JUNBEOM HEO, Undergraduate Student 
 
-Department of Computer Science and Engineering 
-College of Software 
-SungKyunKwan University  
-2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea
-E-mail: trafalgar23@naver.com / bamy@skku.edu
+Department of Computer Science and Engineering<br>
+College of Software <br>
+SungKyunKwan University  <br>
+2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea<br>
+E-mail: trafalgar23@naver.com / bamy@skku.edu<br>
 
 --------------------------------------
 
