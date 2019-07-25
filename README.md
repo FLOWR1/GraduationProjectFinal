@@ -28,32 +28,32 @@ Anaconda
 
 # Instructions
 
-```cmd
-conda create -n myenv python=3.5 anaconda
+```shell
+$ conda create -n myenv python=3.5 anaconda
 ```
 
-```cmd
-source activate myenv
+```shell
+$ source activate myenv
 ```
 
-```cmd
-conda install -c menpo dlib=18.18
+```shell
+$ conda install -c menpo dlib=18.18
 ```
 
-```cmd
-conda install -c https://conda.binstar.org/menpo opencv
+```shell
+$ conda install -c https://conda.binstar.org/menpo opencv
 ```
 
-```cmd
-pip install PyOpenGL PyOpenGL_accelerate
+```shell
+$ pip install PyOpenGL PyOpenGL_accelerate
 ```
 
-```cmd
-pip install pygame
+```shell
+$ pip install pygame
 ```
 
-```cmd
-pip install numpy
+```shell
+$ pip install numpy
 ```
 
 
@@ -61,12 +61,12 @@ pip install numpy
 <em>Intel MKL FATAL ERROR: Error on loading function mkl_blas_avx_xdcopy</em><br>
 <u>If this error occurs, link below will be help</u><br>
 
-```cmd 
-conda install nomkl numpy scipy scikit-learn numexpr
+```shell 
+$ conda install nomkl numpy scipy scikit-learn numexpr
 ```
 
-```cmd
-conda remove mkl mkl-service
+```shell
+$ conda remove mkl mkl-service
 ```
 
 [Error solution reference](https://github.com/pyinstaller/pyinstaller/issues/2175#issuecomment-245438409)
