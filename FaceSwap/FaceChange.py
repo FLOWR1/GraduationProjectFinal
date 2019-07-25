@@ -21,7 +21,7 @@ import timeit
 
 #loading the keypoint detection model, the image and the 3D model
 predictor_path = "../shape_predictor_68_face_landmarks.dat"
-image_name = "../data/jolie.jpg"
+
 #the smaller this value gets the faster the detection will work
 #if it is too small, the user's face might not be detected
 maxImageSizeForDetection = 320
@@ -45,14 +45,14 @@ modelParams = None
 lockedTranslation = False
 drawOverlay = False
 #cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture("../5.mp4")
+cap = cv2.VideoCapture("../1.mp4")
 
 writer = None
 cameraImg = cap.read()[1]   # face swap하여 붙일 영상의 img
 textureImg = cv2.VideoCapture(0).read()[1] #cv2.imread(image_name)
 
-print("광고영상 shape : \t\t",cameraImg.shape[1],cameraImg.shape[0])
-print("카메라 캡쳐영상 shape : ",textureImg.shape[1],textureImg.shape[0])
+print("광고영상 shape : ",cameraImg.shape[1],"*",cameraImg.shape[0])
+print("카메라 캡쳐영상 shape : ",textureImg.shape[1],"*",textureImg.shape[0])
 
 while True:
 	textureImg = cv2.VideoCapture(0).read()[1]
@@ -130,8 +130,9 @@ while True:
         if writer is not None:
             writer.write(cameraImg)
 
-        cv2.imshow('image', cameraImg)
-        key = cv2.waitKey(1)
+        cv2.imshow('Converted Video', cameraImg)
+
+        key = cv2.waitKey(1)& 0xFF
 
         if key == 27:
             break
