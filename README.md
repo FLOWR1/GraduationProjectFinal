@@ -151,7 +151,7 @@ Reference: https://blog.naver.com/jinohpark79/110189612945
 [![Video2](http://img.youtube.com/vi/45nat4zeZWM/0.jpg)](https://youtu.be/45nat4zeZWM?t=0s)<br>
 [Running video-2 link](https://youtu.be/45nat4zeZWM)<br>
 
-[![Video3](http://img.youtube.com/vi/UiSzPO2JShM/10.jpg)](https://youtu.be/UiSzPO2JShM?t=0s)<br>
+[![Video3](http://img.youtube.com/vi/UiSzPO2JShM/0.jpg)](https://youtu.be/UiSzPO2JShM?t=0s)<br>
 [Running video-3 link](https://youtu.be/UiSzPO2JShM)<br>
 
 Video3 is explaining case of pressing R
