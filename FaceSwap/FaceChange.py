@@ -132,7 +132,7 @@ while True:
 
         cv2.imshow('Converted Video', cameraImg)
 
-        key = cv2.waitKey(1)& 0xFF
+        key = cv2.waitKey(1)
 
         if key == 27:
             break
