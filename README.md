@@ -78,18 +78,18 @@ conda remove mkl mkl-service
 
 ```
 
-*NonLinearLeastSquares.py
+* NonLinearLeastSquares.py
 
 
-*drawing.py
+* drawing.py
 
-*FaceRendering.py
+* FaceRendering.py
 
-*ImageProcessing.py
+* ImageProcessing.py
 
-*models.py
+* models.py
 
-*utils.py
+* utils.py
 
 
 
