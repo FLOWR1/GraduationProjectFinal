@@ -8,15 +8,19 @@
 Before you run this program, you should follow these commands,<br>
 (MAC OS)
 
-1. Install anaconda (3.x version recommended)
-2. 
+ Install anaconda (3.x version recommended)
+<ol>
+  <li>
 ```cmd
 conda create -n myenv python=3.5 anaconda
 ```
-3.
+  </li>
+<li>
 ```cmd
 source activate myenv
 ```
+  </li>
+  </ol>
 4.
 ```cmd
 conda install -c menpo dlib=18.18
