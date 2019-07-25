@@ -154,6 +154,10 @@ Reference: https://blog.naver.com/jinohpark79/110189612945
 [![Video3](http://img.youtube.com/vi/UiSzPO2JShM/10.jpg)](https://youtu.be/UiSzPO2JShM?t=0s)<br>
 [Running video-3 link](https://youtu.be/UiSzPO2JShM)<br>
 
+Video3 is explaining case of pressing R
+![Press R](./image/pressr.png)
+
+
 # Related
 <ol>
 <li>
