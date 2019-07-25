@@ -5,10 +5,15 @@
 
 * How to Implement?
 
-Before you run this program, you should follow these commands,<br>
-(MAC OS)
+# Environment
 
- Install anaconda (3.x version recommended)
+MAC OSX
+
+# Prerequisites
+
+Anaconda
+
+# Instructions
 
 ```cmd
 conda create -n myenv python=3.5 anaconda
@@ -78,6 +83,8 @@ conda remove mkl mkl-service
 
 Reference: https://blog.naver.com/jinohpark79/110189612945
 
+# How it works
+
 * Running Video (2 videos)
 
 
@@ -86,5 +93,16 @@ Reference: https://blog.naver.com/jinohpark79/110189612945
 
 [![Video2](http://img.youtube.com/vi/45nat4zeZWM/0.jpg)](https://youtu.be/45nat4zeZWM?t=0s)<br>
 [Running video-2 link](https://youtu.be/45nat4zeZWM)<br>
+
+# Related
+<ol>
+<li>
+https://github.com/MarekKowalski/FaceSwap
+ </li>
+ <li>
+https://github.com/hrastnik/FaceSwap
+ </li>
+ </ol>
+
 
 
