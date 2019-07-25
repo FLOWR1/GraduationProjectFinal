@@ -42,7 +42,15 @@ pip install numpy
 
 <em>Intel MKL FATAL ERROR: Error on loading function mkl_blas_avx_xdcopy</em>
 If this error occurs, link below will be help<br>
-[Error solution](https://github.com/pyinstaller/pyinstaller/issues/2175#issuecomment-245438409)
+
+```cmd 
+conda install nomkl numpy scipy scikit-learn numexpr
+```
+
+```cmd
+conda remove mkl mkl-service
+```
+[Error solution reference](https://github.com/pyinstaller/pyinstaller/issues/2175#issuecomment-245438409)
 
 
 
