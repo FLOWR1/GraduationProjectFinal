@@ -9,35 +9,31 @@ Before you run this program, you should follow these commands,<br>
 (MAC OS)
 
  Install anaconda (3.x version recommended)
-<ol>
-  <li>
+
 ```cmd
 conda create -n myenv python=3.5 anaconda
 ```
-  </li>
-<li>
+
 ```cmd
 source activate myenv
 ```
-  </li>
-  </ol>
-4.
+
 ```cmd
 conda install -c menpo dlib=18.18
 ```
-5.
+
 ```cmd
 conda install -c https://conda.binstar.org/menpo opencv
 ```
-6.
+
 ```cmd
 pip install PyOpenGL PyOpenGL_accelerate
 ```
-7.
+
 ```cmd
 pip install pygame
 ```
-8.
+
 ```cmd
 pip install numpy
 ```
