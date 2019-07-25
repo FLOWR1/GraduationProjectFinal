@@ -141,7 +141,7 @@ while True:
         if key == ord('r'):
             if writer is None:
                 print("Starting video writer")
-                writer = cv2.VideoWriter("../out.avi", cv2.VideoWriter_fourcc('X', 'V', 'I', 'D'), 13, (cameraImg.shape[1], cameraImg.shape[0]))
+                writer = cv2.VideoWriter("../out.mp4", cv2.VideoWriter_fourcc('X', 'V', 'I', 'D'), 13, (cameraImg.shape[1], cameraImg.shape[0]))
 
                 if writer.isOpened():
                     print("Writer succesfully opened")
