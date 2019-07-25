@@ -19,13 +19,13 @@ E-mail: trafalgar23@naver.com / bamy@skku.edu<br>
  * Libraries: Opencv, Dlib, PyGame, OpenGL, Numpy, Scipy
  * Principal Techniques
    * Face Recognition
-    * frontal face detector of dlib ( dlib.get_frontal_face_detector)
-    * facial landmark recognizer
+     * frontal face detector of dlib ( dlib.get_frontal_face_detector)
+     * facial landmark recognizer
    * Measuring movement of object using camera  (providing Facial recogition guideline)
-    * Calculating magnitude of optical flow
+     * Calculating magnitude of optical flow
    * Composing face to video
-    * Mapping to recognized face by dlib to face of model in video 
-    * Composing face based on Facial Landmark 
+     * Mapping to recognized face by dlib to face of model in video 
+     * Composing face based on Facial Landmark 
 
 # Environment
 
