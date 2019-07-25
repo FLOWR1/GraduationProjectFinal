@@ -31,7 +31,8 @@ E-mail: trafalgar23@naver.com / bamy@skku.edu<br>
 
 # Environment
 
-MAC OSX
+MAC OSX <br>
+(also possible in Windows, some commands can be different)
 
 # Prerequisites
 
@@ -66,8 +67,6 @@ $ pip install pygame
 ```shell
 $ pip install numpy
 ```
-
-
 
 <em>Intel MKL FATAL ERROR: Error on loading function mkl_blas_avx_xdcopy</em><br>
 <u>If this error occurs, link below will be help</u><br>
