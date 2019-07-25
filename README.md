@@ -24,7 +24,7 @@ MAC OSX
 
 # Prerequisites
 
-Anaconda
+Anaconda (3.X recommended) 
 
 # Instructions
 
@@ -72,7 +72,9 @@ $ conda remove mkl mkl-service
 [Error solution reference](https://github.com/pyinstaller/pyinstaller/issues/2175#issuecomment-245438409)
 
 
+If you successfully ran this code, you will see <br>
 
+![runningImage](./image/success.png)
 
 # Description of Codes
 
