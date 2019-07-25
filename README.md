@@ -3,7 +3,7 @@ GraduationProjectFinal
 
 --------------------------------------
 
-JUNBEOM HEO, Undergraduate Student 
+JUNBEOM HEO
 
 Department of Computer Science and Engineering<br>
 College of Software <br>
