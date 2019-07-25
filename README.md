@@ -26,10 +26,10 @@
 * Running Video (2 videos)
 
 
-[![Video1](http://img.youtube.com/vi/lSGR9kg8rD40.jpg)](https://youtu.be/lSGR9kg8rD4?t=0s)<br>
-[Running video-1 link](https://youtu.be/lSGR9kg8rD4)
+[![Video1](http://img.youtube.com/vi/lSGR9kg8rD4/0.jpg)](https://youtu.be/lSGR9kg8rD4?t=0s)<br>
+[Running video-1 link](https://youtu.be/lSGR9kg8rD4)<br>
 
 [![Video2](http://img.youtube.com/vi/45nat4zeZWM/0.jpg)](https://youtu.be/45nat4zeZWM?t=0s)<br>
-[Running video-2 link](https://youtu.be/45nat4zeZWM)
+[Running video-2 link](https://youtu.be/45nat4zeZWM)<br>
 
 
