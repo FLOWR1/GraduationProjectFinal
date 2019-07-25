@@ -152,10 +152,19 @@ Reference: https://blog.naver.com/jinohpark79/110189612945
 [Running video-2 link](https://youtu.be/45nat4zeZWM)<br>
 
 [![Video3](http://img.youtube.com/vi/UiSzPO2JShM/0.jpg)](https://youtu.be/UiSzPO2JShM?t=0s)<br>
+
+## More Detail 
+
 [Running video-3 link](https://youtu.be/UiSzPO2JShM)<br>
 
 Video3 is explaining case of pressing R
 ![Press R](./image/pressr.png)
+
+* When you press t, facial points will be displayed.
+
+* When you press r, video will be recorded.
+
+* when you press ESC, program will be executed.
 
 
 # Related
