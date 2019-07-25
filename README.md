@@ -1,6 +1,18 @@
 GraduationProjectFinal
 =======================
 
+--------------------------------------
+
+JUNBEOM HEO, Undergraduate Student 
+
+Department of Computer Science and Engineering 
+College of Software 
+SungKyunKwan University  
+2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea
+E-mail: trafalgar23@naver.com / bamy@skku.edu
+
+--------------------------------------
+
 # Face Changer
 
 
