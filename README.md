@@ -38,6 +38,13 @@ pip install pygame
 pip install numpy
 ```
 
+If 
+
+<em>Intel MKL FATAL ERROR: Error on loading function mkl_blas_avx_xdcopy</em>
+error occurs, link below will be help<br>
+[Error solution](https://github.com/pyinstaller/pyinstaller/issues/2175#issuecomment-245438409)
+
+
 
 ```bash
 
