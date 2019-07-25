@@ -174,6 +174,9 @@ https://github.com/MarekKowalski/FaceSwap
  <li>
 https://github.com/hrastnik/FaceSwap
  </li>
+  <li>  
+https://github.com/wuhuikai/FaceSwap
+    </li>
  </ol>
 
 
