@@ -13,8 +13,8 @@ import utils
 
 import timeit
 #
-#print("Press T to draw the keypoints and the 3D model")
-#print("Press R to start recording to a video file")
+print("Press T to draw the keypoints and the 3D model")
+print("Press R to start recording to a video file")
 
 #you need to download shape_predictor_68_face_landmarks.dat from the link below and unpack it where the solution file is
 #http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2
