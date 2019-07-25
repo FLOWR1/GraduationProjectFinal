@@ -123,8 +123,9 @@ If you successfully ran this code, you will see <br>
 ```
 
 * NonLinearLeastSquares.py
-
-
+  * Gauss Newton Algorithm<br>
+   [Link](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm)
+ 
 * drawing.py
 
 * FaceRendering.py
