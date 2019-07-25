@@ -12,7 +12,7 @@ import FaceRendering
 import utils
 
 import timeit
-#
+
 print("Press t to draw the keypoints and the 3D model")
 print("Press r to start recording to a video file")
 
